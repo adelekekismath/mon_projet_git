@@ -1,0 +1,3 @@
+[submodule "productInventory"]
+	path = productInventory
+	url = https://github.com/adelekekismath/productInventory.git
